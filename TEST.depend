@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651771356 source:d:\viducode\test\main.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_until.h"
+
+1651771501 d:\viducode\test\sdl_until.h
+	<iostream>
+	<SDL.h>
+
